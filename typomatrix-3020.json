@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Typomatrix 3020",
+    "author": "cryoverkiltmilk"
+  },
+  [
+    "esc",
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    {
+      "t": "#000000\n\n\n0058ff",
+      "n": true
+    },
+    "delete\n\n\ninsert",
+    {
+      "t": "#000000"
+    },
+    "F6",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n\n\n0058ff"
+    },
+    "F7\n\n\n\n\n\n\n\n\n\npower",
+    "F8\n\n\n\n\n\n\n\n\n\nsleep",
+    "F9\n\n\n\n\n\n\n\n\n\nwake",
+    "F10\n\n\n\n\n\n\n\n\n\nprt scr",
+    "F11\n\n\n\n\n\n\n\n\n\nscroll",
+    "F12\n\n\n\n\n\n\n\n\n\npause",
+    {
+      "t": "#000000\n\n\n0058ff"
+    },
+    "num\n\n\nn. lock"
+  ],
+  [
+    {
+      "t": "#000000"
+    },
+    "~\n`",
+    "!\n1",
+    "@\n2",
+    "#\n3",
+    "$\n4",
+    "%\n5",
+    {
+      "t": "#000000\n\n\n#0058ff",
+      "h": 2
+    },
+    "bkspc\n\n\nvol+",
+    {
+      "t": "#000000"
+    },
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    "_\n-",
+    "+\n=",
+    "calc"
+  ],
+  [
+    "tab",
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    {
+      "x": 1
+    },
+    "Y",
+    "U",
+    "I",
+    {
+      "t": "#000000\n\n\n0058ff"
+    },
+    "O\n\n\ntab",
+    "P\n\n\n/",
+    "{\n[\n\n*",
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        8
+      ]
+    },
+    "}\n]\n\n-",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n\n\n0058ff"
+    },
+    "mail\n\n\n\n\n\n\n\n\n\nb. tab"
+  ],
+  [
+    {
+      "t": "#000000",
+      "h": 2
+    },
+    "shift",
+    "A",
+    "S",
+    "D",
+    {
+      "n": true
+    },
+    "F",
+    "G",
+    {
+      "t": "#000000\n\n\n#0058ff",
+      "f": 3,
+      "h": 2
+    },
+    "enter\n\n\nvol-",
+    {
+      "t": "#000000\n\n\n0058ff",
+      "f": 3
+    },
+    "H\n\n\nhome",
+    {
+      "f": 3,
+      "n": true
+    },
+    "J\n\n\n⯅",
+    {
+      "f": 3
+    },
+    "K\n\n\nend",
+    {
+      "f": 3
+    },
+    "L\n\n\n7",
+    {
+      "f": 3
+    },
+    ":\n;\n\n8",
+    {
+      "f": 3
+    },
+    "\"\n'\n\n9",
+    {
+      "f": 3,
+      "h": 2
+    },
+    "shift\n\n\n+",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n\n\n0058ff"
+    },
+    "caps\n\n\n\n\n\n\n\n\n\nclear"
+  ],
+  [
+    {
+      "x": 1,
+      "t": "#000000"
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    {
+      "x": 1,
+      "t": "#000000\n\n\n0058ff",
+      "f": 3
+    },
+    "N\n\n\n⯇",
+    {
+      "f": 3
+    },
+    "M\n\n\n⯆",
+    {
+      "f": 3
+    },
+    "\n\n\n⯈",
+    {
+      "f": 3
+    },
+    "<\n,\n\n4",
+    {
+      "f": 3
+    },
+    ">\n.\n\n5",
+    {
+      "f": 3
+    },
+    "|\n\\\n\n6",
+    {
+      "x": 1,
+      "t": "#000000\n\n\n\n\n\n\n\n\n\n0058ff"
+    },
+    "www\n\n\n\n\n\n\n\n\n\nb.space"
+  ],
+  [
+    {
+      "t": "#000000"
+    },
+    "ctrl",
+    {
+      "t": "#000000\n\n\n0058ff",
+      "f": 3
+    },
+    "play\n\n\ncut",
+    {
+      "f": 3
+    },
+    "app\n\n\ncopy",
+    {
+      "f": 3
+    },
+    "shuffle\n\n\npaste",
+    {
+      "f": 3,
+      "w": 5
+    },
+    "Space\n\n\nmute",
+    {
+      "f": 3
+    },
+    "\n\n\nprev\n\n\n\n\ndsktp",
+    {
+      "f": 3
+    },
+    "\n\n\n1\n\n\n\n\nhome",
+    {
+      "f": 3
+    },
+    "\n\n\n2\n\n\n\n\n⬆",
+    {
+      "f": 3
+    },
+    "end\n\n\n3",
+    {
+      "f": 3,
+      "h": 2
+    },
+    "ctrl\n\n\nenter",
+    {
+      "t": "#000000\n\n\n\n\n\n\n\n\n\n0058ff"
+    },
+    "pg up\n\n\n\n\n\n\n\n\n\nback"
+  ],
+  [
+    {
+      "t": "0058ff"
+    },
+    "fn",
+    {
+      "t": "#000000",
+      "w": 1.5
+    },
+    "gui",
+    {
+      "w": 1.5
+    },
+    "alt",
+    {
+      "x": 5,
+      "t": "#000000\n\n\n0058ff",
+      "f": 3
+    },
+    "alt\n\n\nnext",
+    {
+      "f": 3
+    },
+    "\n\n\n0\n\n\n\n\n⬅",
+    {
+      "f": 3,
+      "n": true
+    },
+    "\n\n\n00\n\n\n\n\n⬇",
+    {
+      "f": 3
+    },
+    "\n\n\n.\n\n\n\n\n⮕",
+    {
+      "x": 1,
+      "t": "#000000\n\n\n\n\n\n\n\n\n\n0058ff"
+    },
+    "pg dn\n\n\n\n\n\n\n\n\n\nforward"
+  ]
+]
