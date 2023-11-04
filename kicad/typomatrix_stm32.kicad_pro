@@ -457,15 +457,15 @@
         "pattern": "+5V"
       },
       {
-        "netclass": "Default",
+        "netclass": "Power",
         "pattern": "+3V3"
       },
       {
-        "netclass": "Default",
+        "netclass": "Power",
         "pattern": "GND"
       },
       {
-        "netclass": "Default",
+        "netclass": "Power",
         "pattern": "VBUS"
       }
     ]

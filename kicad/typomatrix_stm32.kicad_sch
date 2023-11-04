@@ -4453,6 +4453,9 @@
       (project "stm32_hotswap_chiffre"
         (path "/ca0d59d2-7f9b-4344-99bc-39bc2c8c88cb" (page "2"))
       )
+      (project "typomatrix_stm32"
+        (path "/e8ee2542-7735-470a-822f-77831e746c6d" (page ""))
+      )
     )
   )
 
